@@ -1,0 +1,613 @@
+*{
+margin: 0px;
+padding: 0px;
+
+
+}
+.container{
+
+width:1140px;
+margin: 0 auto;
+
+}
+
+header{
+
+	width: 100%;
+	float: left;
+}
+
+.logo{
+ 
+ width: 25%;
+float: left;
+
+}
+
+.logo img{
+
+	 height:75px;
+	 width: 98px;
+}
+
+.menu{
+	
+	width: 50%;
+	float: left;
+	
+
+}
+.social-media{
+width: 25%;
+float: left;
+
+
+}
+
+
+
+.social-media ul li{
+	display: inline-block;
+	
+}
+
+.social-media ul li a{
+    text-decoration: none;
+    font-size: 43px;
+    padding: 6px 4px;
+}
+
+.fbook{
+
+color: #3F51B5;
+}
+
+
+
+.twit{
+color: #2196F3;
+
+}
+.linked{
+color: #0b75ca;
+
+
+}
+.gplus{
+  color: #f70303;
+
+}
+
+
+.mainhead{
+width:100%;
+float: left;
+padding: 10px 50px;
+position: fixed;
+}
+
+
+.baner{
+width: 100%;
+float: left;
+
+
+}
+.baner-1{
+
+ height: 350px;
+ background-image: url("../img/back.jpg");
+ background-repeat: no-repeat;
+ background-size: cover;
+
+
+}
+
+.smallbaner{
+
+width: 284px;
+
+border: #007814;
+
+border-style: double;
+
+background-color:  #80808094;
+
+margin-top: -290px;
+
+margin-left: 52px;
+
+padding: 56px;
+
+text-align: center;
+
+font-size: 37px;
+
+height: 136px;
+}
+
+ .smallbaner h4{
+
+text-align: center;
+
+text-transform: uppercase;
+
+font-size: 36px;
+
+padding: 4px 10px;
+
+color: papayawhip;
+}
+ .smallbanerh6 h6{
+	
+margin-top: -103px;
+	
+
+	
+margin-left: 103px;
+	
+
+	
+font-size: 12px;
+	
+color: #FFEB3B;
+}
+
+.btn{
+
+margin-top: 14px;
+
+margin-left: 64px;
+
+padding: 8px;
+}
+.btn a{
+	width: fit-content;
+	background-color: #00800075;
+	padding: 8px 11px;
+	color: #f1e0d0;
+	font-size: 18px;
+	text-decoration: none;
+}
+
+
+nav ul{list-style: none;}
+
+nav ul li{display: inline-block;text-decoration: none;padding: 10px 0px;}
+
+nav ul li a{
+
+text-decoration: none;
+
+font-size: 20px;
+
+text-transform: uppercase;
+
+padding: 10px 5px;
+
+background-color: #568c4cb3;
+
+color: white;
+
+width: fit-content;
+}
+
+.loandetails{
+
+	width: 100%;
+	float: left;
+	
+	
+}
+
+.concept{
+    margin-top: 107px;
+    width:23%;
+    float: left;
+    text-align: center;
+}
+
+.concept li{
+
+font-size: 21px;
+list-style: none;
+color: #007814;
+
+
+
+color: blue;
+}
+
+.concept h5{
+
+font-size: 20px;
+}
+.concept h6{
+text-align: justify;
+
+}
+
+.btn2{
+
+background-color: #007814;
+
+color: white;
+
+padding: 5px;
+
+margin-top: 5px;
+}
+.blankclass-1{
+
+	margin-top: 107px;
+    width:2.5%;
+    float: left;
+    text-align: center;
+
+}
+
+
+
+.loan{
+    margin-top: 107px;
+    width:23%;
+    float: left;
+    text-align: center;
+}
+
+.loan li{
+
+font-size: 21px;
+list-style: none;
+color: #007814;
+
+
+
+color: blue;
+}
+
+.loan h5{
+
+font-size: 20px;
+}
+.loan h6{
+text-align: justify;
+
+}
+
+.btn3{
+
+background-color: #007814;
+
+color: white;
+
+padding: 5px;
+
+margin-top: 5px;
+}
+
+
+.finance{
+    margin-top: 107px;
+    width:23%;
+    float: left;
+    text-align: center;
+}
+
+.finance li{
+
+font-size: 21px;
+list-style: none;
+color: #007814;
+
+
+
+color: blue;
+}
+
+.finance h5{
+
+font-size: 20px;
+}
+.finance h6{
+text-align: justify;
+
+}
+
+.btn4{
+
+background-color: #007814;
+
+color: white;
+
+padding: 5px;
+
+margin-top: 5px;
+}
+
+
+.signup{
+    margin-top: 107px;
+    width:23%;
+    float: left;
+    text-align: center;
+}
+
+.signup li{
+
+font-size: 21px;
+list-style: none;
+color: #007814;
+
+
+
+color: blue;
+}
+
+.signup h5{
+
+font-size: 20px;
+}
+.signup h6{
+text-align: justify;
+
+}
+
+.btn5{
+
+background-color: #007814b3;
+
+color: white;
+
+padding: 5px;
+
+margin-top: 5px;
+}
+
+
+
+.investment{
+
+	width: 100%;
+	float:left;
+
+}
+.investment-blank-1{
+    margin-top: 107px;
+    width:6%;
+    float: left;
+    
+}
+
+.investment-baner1{
+    margin-top: 34px;
+    width: 40%;
+    float: left;
+    background-color: #80808042;
+    padding: 39px 39px;
+    margin-bottom: 10px;
+}
+
+
+
+
+
+.investment-baner1 h4{
+
+padding: 5px 38px;
+
+font-size: 25px;
+
+text-align: center;
+}
+
+
+.investment-baner1 ul li{
+
+
+
+margin-left: 30px;
+}
+.btn7{
+
+margin-top: 21px;
+
+margin-left: 4px;
+
+padding: 4px;
+}
+
+.btn7 a{
+		width: fit-content;
+	background-color: #00800075;
+	padding: 8px 11px;
+	color: #f1e0d0;
+	font-size: 18px;
+	text-decoration: none;
+
+}
+
+.blog{
+
+width: 100%;
+float: left;
+
+}
+
+.blog1{
+
+	width: 40%;
+    float: left;
+}
+
+.blog1 h5{font-size: 20px;margin-bottom: 9px;}
+
+.blog h6{
+
+text-align: justify;
+}
+
+
+
+.blogblank{
+
+width: 20%;
+
+float: left;
+
+margin-top: -23px;
+}
+
+.blogblank h4{
+
+	font-size: 20px;
+	text-align: center;
+	padding: 10px 10px;
+	margin-top: 10px;
+}
+
+
+
+.blog2{
+
+	width: 40%;
+    float: left;
+}
+
+.blog2 h5{font-size: 20px;margin-bottom: 28px;}
+
+.blog2 h6{
+
+text-align: justify;
+}
+
+
+.aditionalinfo{
+
+ width: 100%;
+ float: left;
+
+}
+
+.aditionalinfo-1{
+	margin-top: 10px;
+	background-color: #80808087;
+	height: 78px;
+}
+.aditionalinfo-1 h4{
+
+text-align: center;
+padding: 10px 10px;
+
+}
+
+
+.trustpilot
+{
+
+	width: 100%
+	float:left;
+}
+
+.star{
+
+width: 100%;
+float: left;
+}
+
+
+.information{
+width: 100%;
+float: left;
+
+}
+
+.infodetail{
+
+  margin-top: 10px;
+ background-color:gray;
+ height: 78px;
+
+
+
+}
+
+
+.footer{
+width: 100%;
+float: left;
+
+}
+
+.footerdetails{
+
+margin-top: 10px;
+
+background-color: #0b4d6d;
+
+height: 78px;
+}
+
+
+
+
+.star li{
+
+float: left;
+
+list-style: none;
+
+
+
+margin-left: 10px;
+
+background-color: #79b479;
+
+padding: 5px;
+
+
+}
+
+.star h5{
+
+text-align: center;
+
+margin-bottom: 18px;
+
+
+}
+
+.star p{text-align: center;font-size: 20px;}
+
+
+.star2{
+	font-size: 15px;
+	background-color: green;
+}
+
+.star3{
+
+color: blue;
+
+padding: 2px;
+
+
+}
+
+.star4{
+
+	background-color: pink;
+}
+
+.infodetail p{text-align: center;font-size: 20px;}
+.footerdetails p{text-align: center;font-size: 20px;}
+
+
+
+body{
+
+
+
+}
+
+
